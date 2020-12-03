@@ -7,7 +7,7 @@
 #### -> Also This repo is helpful for find optimal Solustion.
 
 
-#### For Contribute Please [Read This]()
+#### For Contribute Please [Read This](https://github.com/codewithvk/CP_LIST/blob/master/Contribute.md)
 
 ##### Let's help each other.
 
