@@ -6,7 +6,6 @@
 #### -> All Question Creadit @Striver79 .
 #### -> Also This repo is helpful for find optimal Solustion.
 
-[here]()
 
 #### For Contribute Please [Read This](https://github.com/codewithvk/CP_LIST/blob/master/Contribute.md)
 
