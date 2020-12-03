@@ -1,7 +1,9 @@
 
 
-## This repo is created for the solution of all problems from cp list.You can also contribute code or modify existing code.This will help you someone who can not find solution easily.All Question Creadit @Striver79 .
-
+## This repo is created for the solution of all problems from cp list. 
+## You can also contribute code or modify existing code.
+## This will help you someone who can not find solution easily.
+## All Question Creadit @Striver79 .
 ## Also This repo is helpful for find optimal Solustion.
 
 
